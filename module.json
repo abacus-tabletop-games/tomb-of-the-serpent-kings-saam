@@ -18,37 +18,54 @@
   ],
   "packs": [
     {
-      "name": "totsk-map",
-      "label": "TotSK Map only",
-      "path": "packs/totsk-map",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "totsk-journals",
-      "label": "TotSK Journals only",
-      "path": "packs/totsk-journals",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
-    },
-    {
-      "name": "totsk-adventure",
-      "label": "TotSK Adventure",
-      "path": "packs/totsk-adventure",
+      "name": "adventure-tomb-of-the-serpent-kings",
+      "label": "Adventure: Tomb of the Serpent Kings",
+      "path": "packs/adventure-tomb-of-the-serpent-kings",
       "type": "Adventure",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
+    },
+    {
+      "name": "journal-entries-only",
+      "label": "Journal Entries Only",
+      "path": "packs/journal-entries-only",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros-only",
+      "label": "Macros Only",
+      "path": "packs/macros-only",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rollable-tables-only",
+      "label": "Rollable Tables Only",
+      "path": "packs/rollable-tables-only",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "scenes-only",
+      "label": "Scenes Only",
+      "path": "packs/scenes-only",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ]
 }
