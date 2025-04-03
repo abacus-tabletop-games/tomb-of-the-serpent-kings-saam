@@ -1,0 +1,54 @@
+{
+  "id": "tomb-of-the-serpent-kings-saam",
+  "title": "Tomb of the Serpent Kings (SAAM)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "The famed \"learning\" module in an old school style. System-Agnostic Adventure Module (SAAM).",
+  "authors": [
+    {
+      "name": "Jordan Raymond",
+      "email": "abacus.tabletop.games@gmail.com",
+      "url": "https://abacustabletopgames.bearblog.dev/",
+      "discord": "jordan_rr",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "totsk-map",
+      "label": "TotSK Map only",
+      "path": "packs/totsk-map",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "totsk-journals",
+      "label": "TotSK Journals only",
+      "path": "packs/totsk-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "totsk-adventure",
+      "label": "TotSK Adventure",
+      "path": "packs/totsk-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
