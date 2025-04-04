@@ -32,7 +32,7 @@ None.
 ## Attributions and Thanks
 
 * Macro icon by Lorc, CC-BY-3.0 https://game-icons.net/1x1/lorc/hazard-sign.html
-* Tomb of the Serpent Kings written by Skerples, Art by Scrap Princess, Map by Janon (not in this Foundry module) and layout by David Shigars. https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
+* Tomb of the Serpent Kings written by Skerples, Art by Scrap Princess, Map by Janon (not in this Foundry module) and layout by David Shigars. CC-BY-NC-SA. https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
 * Map drawn by me, Jordan Raymond, using Dungeondraft and Blueprint Assets by DnDungeon, used under the full version license. [blueprints.dndmaps.net](https://blueprints.dndmaps.net/). 
 * Numbered map pins icons created by using Automatic Journal Icon Numbers, by ChrisF. With permission by the module author. https://foundryvtt.com/packages/journal-icon-numbers
 * Screenshots made in the Fantastic Depths Game System, Shadowdark Game System and D&D 5e Game System. I did not ask permission, though! https://foundryvtt.com/packages/fantastic-depths, https://foundryvtt.com/packages/shadowdark and https://foundryvtt.com/packages/dnd5e 
