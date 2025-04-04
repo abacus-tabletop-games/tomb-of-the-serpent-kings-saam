@@ -23,7 +23,7 @@
       "path": "packs/adventure-tomb-of-the-serpent-kings",
       "type": "Adventure",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -33,7 +33,7 @@
       "path": "packs/journal-entries-only",
       "type": "JournalEntry",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -43,7 +43,7 @@
       "path": "packs/macros-only",
       "type": "Macro",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -53,7 +53,7 @@
       "path": "packs/rollable-tables-only",
       "type": "RollTable",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -63,9 +63,13 @@
       "path": "packs/scenes-only",
       "type": "Scene",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "url": "https://github.com/abacus-tabletop-games/tomb-of-the-serpent-kings-saam",
+  "manifest": "https://github.com/abacus-tabletop-games/tomb-of-the-serpent-kings-saam/releases/download/1.0.0/module.json",
+  "download":  "https://github.com/abacus-tabletop-games/tomb-of-the-serpent-kings-saam/releases/download/1.0.0/tomb-of-the-serpent-kings-saam.zip"
+
 }

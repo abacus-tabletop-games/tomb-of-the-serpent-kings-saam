@@ -5,7 +5,7 @@
 ## How to install
 
 * Search for the module in Foundry's *Add-on modules* tab.
-* Install manually with this manifest url: https://github.com/abacus-tabletop-games/tombs-of-the-serpent-kings-saam/releases/latest/download/module.json
+* Install manually with this manifest url: https://github.com/abacus-tabletop-games/tomb-of-the-serpent-kings-saam/releases/latest/download/module.json
 
 ![In the Fantastic Depths Game System](image-1.png)
 
