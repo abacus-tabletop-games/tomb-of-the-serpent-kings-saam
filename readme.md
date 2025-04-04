@@ -37,7 +37,7 @@ None.
 * Numbered map pins icons created by using Automatic Journal Icon Numbers, by ChrisF. With permission by the module author. https://foundryvtt.com/packages/journal-icon-numbers
 * Screenshots made in the Fantastic Depths Game System, Shadowdark Game System and D&D 5e Game System. I did not ask permission, though! https://foundryvtt.com/packages/fantastic-depths, https://foundryvtt.com/packages/shadowdark and https://foundryvtt.com/packages/dnd5e 
 
-You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to [pay me a coffee](tab:https://ko-fi.com/abacus_tabletop_games), I thank you!
+You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/). If you just want to [pay me a coffee](https://ko-fi.com/abacus_tabletop_games), I thank you!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
 
