@@ -7,7 +7,9 @@
 * Search for the module in Foundry's *Add-on modules* tab.
 * Install manually with this manifest url: https://github.com/abacus-tabletop-games/tomb-of-the-serpent-kings-saam/releases/latest/download/module.json
 
+![In the Shadowdark Game System](image.png)
 ![In the Fantastic Depths Game System](image-1.png)
+![In the D&D 5e Game system](image-2.png)
 
 This is the famed "learning" module in an old school style. 
 
@@ -30,7 +32,7 @@ None.
 ## Attributions and Thanks
 
 * Macro icon by Lorc, CC-BY-3.0 https://game-icons.net/1x1/lorc/hazard-sign.html
-* Tomb of the Serpent Kings written by Skerples, Art by Scrap Princess, Map ny Janon (not in this Foundry module) and layout by David Shigars. https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
+* Tomb of the Serpent Kings written by Skerples, Art by Scrap Princess, Map by Janon (not in this Foundry module) and layout by David Shigars. https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html
 * Map drawn by me, Jordan Raymond, using Dungeondraft and Blueprint Assets by DnDungeon, used under the full version license. [blueprints.dndmaps.net](https://blueprints.dndmaps.net/). 
 * Numbered map pins icons created by using Automatic Journal Icon Numbers, by ChrisF. With permission by the module author. https://foundryvtt.com/packages/journal-icon-numbers
 * Screenshots made in the Fantastic Depths Game System, Shadowdark Game System and D&D 5e Game System. I did not ask permission, though! https://foundryvtt.com/packages/fantastic-depths, https://foundryvtt.com/packages/shadowdark and https://foundryvtt.com/packages/dnd5e 
@@ -39,5 +41,4 @@ You can find my stuff on my [website](https://abacustabletopgames.bearblog.dev/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41CCI2J)
 
-![In the Shadowdark Game System](image.png)
-![In the D&D 5e Game system](image-2.png)
+
