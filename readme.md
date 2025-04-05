@@ -1,7 +1,5 @@
 # Tomb of the Serpent Kings (SAAM) Foundry VTT Module
 
-
-
 ## How to install
 
 * Search for the module in Foundry's *Add-on modules* tab.
@@ -13,11 +11,11 @@
 
 This is the famed "learning" module in an old school style. 
 
-It is released as a System-Agnostic Adventure Module (SAAM). This does not mean that the adventure itself is written to be played with any ruleset, only that it is built to be usable with any Foundry game system. This is a dream of mine: adventure modules being made without being locked to a specific system. I hope it will catch on, so that GMs can have access to lots of ready-to-play adventures while still retaining their ability to use the system they prefer.
+It is released as a System-Agnostic Adventure Module (SAAM). This does not mean that the adventure itself is written to be played with any ruleset, only that it is built to be usable with any Foundry game system.
 
 SAAM is a dream of mine. I hope it will catch on, so that GMs can have access to lots of ready-to-play adventures while still retaining their ability to use the system they prefer and for which they may already have bought compendia.
 
-It makes this module less dependent on software in the same way a PDF or a hard copy is: all the tools you already have can be used to play the adventure. The downside is that there are no Actors and no Items provided in this module, since those are not system-agnostic. You need to use the ones provided by your game system (or create your own). To mitigate this, I made sure to take the most out of Journal Entries. The GM willing to put a bit of effort creating Actors and Items for their system of choice will know exactly what they need to create. The ones that just want to play right away will be able to roll straight from the Journal entries themselves: mechanics described in the adventure are rollable, and rolls are described in the chat card.
+It makes this module less dependent on software in the same way a PDF or a hard copy is: all the tools you already have can be used to play the adventure. The downside is that there are no Actors and no Items provided in this module, since those are not system-agnostic. You need to use the ones provided by your game system (or create your own). To mitigate this, I made sure to take the most out of Journal Entries. The GM willing to put a bit of effort creating Actors and Items for their system of choice will know exactly what they need to create. The ones that just want to play right away will be able to roll straight from the Journal entries themselves: mechanics described in the adventure are rollable, and rolls are described in the chat cards.
 
 I'm sure the community will have plenty of great ideas to make this module (and all SAAMs) even better. I can't wait to hear what you have to say. 
 
