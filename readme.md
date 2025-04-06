@@ -11,17 +11,17 @@
 
 This is the famed "learning" module in an old school style. 
 
-It is released as a System-Agnostic Adventure Module (SAAM). This does not mean that the adventure itself is written to be played with any ruleset, only that it is built to be usable with any Foundry game system. It makes this module less dependent on software in the same way a PDF or a hard copy is: all the tools you already have can be used to play the adventure.
+It is released as a [System-Agnostic Adventure Module (SAAM)](https://abacustabletopgames.bearblog.dev/what-is-a-saam/). This does not mean that the adventure itself is written to be played with any ruleset, only that it is built to be usable with any Foundry game system. It makes this module less dependent on software in the same way a PDF or a hard copy is: all the tools you already have can be used to play the adventure.
 
 SAAM is a dream of mine. I hope it will catch on, so that GMs can have access to lots of ready-to-play adventures while still retaining their ability to use the system they prefer and for which they may already have bought compendia.
 
- The downside of a SAAM is that it cannot provide Actors nor Items, since those are not system-agnostic. You need to use the ones provided by your game system (or create your own). 
+The downside of a SAAM is that it cannot provide Actors nor Items, since those are not system-agnostic. You need to use the ones provided by your game system (or create your own). 
  
- To mitigate this, I made sure to take the most out of Journal Entries. The GM willing to put a bit of effort creating Actors and Items for their system of choice will know exactly what they need to grab or create. The ones that just want to play right away will be able to roll straight from the Journal entries themselves: mechanics described in the adventure are rollable, and rolls are described in the chat cards.
+To mitigate this, I made sure to take the most out of Journal Entries. The GM willing to put a bit of effort creating Actors and Items for their system of choice will know exactly what they need to grab or create. The ones that just want to play right away will be able to roll straight from the Journal entries themselves: mechanics described in the adventure are rollable, and rolls are described in the chat cards.
 
 I'm sure the community will have plenty of great ideas to make this module (and all SAAMs) even better. I can't wait to hear what you have to say. 
 
-*Tomb of the Serpent Kings* is the perfect candidate to start the whole SAAM idea. It's an old-school module meant to teach anyone how to play, whatever their ruleset of choice. It is shared under a CC-BY-NC-SA license, meaning it's free to use, reuse and adapt as long as the result remains free, too (and attribution given). It is also widely shared as a great way to start playing in an old-school way. Hopefully, this module will make it almost as easy to do so using Foundry as it is using a physical tabletop. People coming from 5e and willing to try something different won't even need to use a different Foundry game system!
+[*Tomb of the Serpent Kings*](https://coinsandscrolls.blogspot.com/2017/06/osr-tomb-of-serpent-kings-megapost.html) is the perfect candidate to start the whole SAAM idea. It's an old-school module meant to teach anyone how to play, whatever their ruleset of choice. It is shared under a CC-BY-NC-SA license, meaning it's free to use, reuse and adapt as long as the results remain free, too (and attribution given). It is also widely shared as a great way to start playing in an old-school way. Hopefully, this module will make it almost as easy to do so using Foundry as it is using a physical tabletop. People coming from 5e and willing to try something different won't even need to use a different Foundry game system!
 
 Thank you for checking it out, and happy gaming!
 
